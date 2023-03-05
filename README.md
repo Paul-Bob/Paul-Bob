@@ -29,3 +29,6 @@
 </div>
   
 ![Snake animation](https://github.com/Paul-Bob/Paul-Bob/blob/output/github-contribution-grid-snake.svg)
+
+ [![An image of @paulbob's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paulbob)](https://holopin.io/@paulbob)
+ 
