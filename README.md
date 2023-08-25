@@ -32,3 +32,5 @@
 
  [![An image of @paulbob's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paulbob)](https://holopin.io/@paulbob)
  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Paul-Bob" alt="Paul-Bob" /> </p>
