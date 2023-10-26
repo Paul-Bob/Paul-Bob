@@ -3,7 +3,6 @@
  <div >
   <a href="https://github.com/Paul-Bob">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paul-Bob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Bob&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Academic Knowledge
@@ -27,8 +26,7 @@
   <img align="center" alt="Bob-RAILS" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   <img align="center" alt="Bob-POSTGRES" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
-  
-![Snake animation](https://github.com/Paul-Bob/Paul-Bob/blob/output/github-contribution-grid-snake.svg)
+ 
 
  [![An image of @paulbob's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paulbob)](https://holopin.io/@paulbob)
  
