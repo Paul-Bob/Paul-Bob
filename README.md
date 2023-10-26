@@ -26,9 +26,9 @@
   <img align="center" alt="Bob-RAILS" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   <img align="center" alt="Bob-POSTGRES" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
- 
 
+ <br/>
+ 
  [![An image of @paulbob's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paulbob)](https://holopin.io/@paulbob)
  
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paul-Bob" alt="Paul-Bob" /> </p>
