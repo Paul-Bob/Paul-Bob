@@ -1,9 +1,11 @@
 ### Hi there 👋 I'm Bob, Paul Bob
 
+<!--
  <div >
   <a href="https://github.com/Paul-Bob">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paul-Bob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+-->
 
 <!--
 ### Academic Knowledge
