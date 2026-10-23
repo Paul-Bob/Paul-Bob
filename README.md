@@ -30,6 +30,11 @@
   <img align="center" alt="Bob-POSTGRES" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 -->
+
+### Agent skills
+
+- [coexist](https://github.com/Paul-Bob/coexist): PR and issue descriptions with a short part for people and the agent's context folded underneath.
+
  <br/>
  
  [![An image of @paulbob's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paulbob)](https://holopin.io/@paulbob)
